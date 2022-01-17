@@ -144,6 +144,24 @@
         "hungryasdjklasdjalksdj"
       ],
       "id": "14"
+    },
+    {
+      "name": "asdas",
+      "species": "adsasd",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "asdas",
+      "species": "adsasd",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
     }
   ]
 }
